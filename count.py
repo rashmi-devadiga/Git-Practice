@@ -11,3 +11,5 @@ for ch in text:
 
 print("Letters:", letters)
 print("Numbers:", numbers)
+
+print("Counting completed")
