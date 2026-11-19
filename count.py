@@ -16,4 +16,4 @@ print("Letters:", letters)
 print("Numbers:", numbers)
 print("Special characters:", special)
 
-print("Counting completed")
+print("Counting completed, Thank You")
