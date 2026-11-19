@@ -1,4 +1,5 @@
 print("Welcome to Python")
+print("Keep Learning")
 text=input("Enter text: ")
 
 letters=0
