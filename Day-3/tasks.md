@@ -5,7 +5,7 @@
 **Commit 1**
 
 ![Commit 1](ss/commit-1.png)
-(ss/commit-11.png)
+![Commit 1](ss/commit-11.png)
 
 **Commit 2**
 
