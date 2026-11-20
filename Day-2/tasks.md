@@ -1,12 +1,12 @@
 # Day 2 - Tasks
 
-## 1. Install Git on your system and confirm it with `git --version`.
+### **1. Install Git on your system and confirm it with `git --version`.**
 
 **Git Version**
 
 ![Git Version](ss/git-version.png)
 
-## 2. Create a folder, run `git init` inside it, and take a screenshot of the output.
+### **2. Create a folder, run `git init` inside it, and take a screenshot of the output.**
 
 **Create a folder (mkdir)**
 
