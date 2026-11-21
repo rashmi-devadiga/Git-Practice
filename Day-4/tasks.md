@@ -23,7 +23,7 @@
 
 **Git Commit History**
 
-![Git Log](ss/git-log1.png)
+![Git Log](ss/git-log.png)
 
 ### **3. Deliberately create a merge conflict: change the same line differently on two branches, try to merge, and resolve it by hand.**
 
@@ -42,4 +42,4 @@
 
 **Git Commit History After Merge**
 
-![History](ss/resolved-merge.png)
+![History](ss/git-log3.png)
