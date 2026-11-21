@@ -17,9 +17,12 @@ for ch in text:
     else:
         special+=1
 
+total = letters + numbers + spaces + special
+
 print("Letters:", letters)
 print("Numbers:", numbers)
 print("Special characters:", special)
 print("Spaces:", spaces)
+print("Total characters:", total)
 
 print("Counting completed, Thank You")
